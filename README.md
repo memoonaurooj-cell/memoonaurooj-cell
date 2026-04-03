@@ -14,5 +14,6 @@ I'm currently working on academic projects in Computer Engineering<br>I'm lookin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=memoonaurooj-cell&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=memoonaurooj-cell&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memoonaurooj-cell&layout=compact&theme=dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
