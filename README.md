@@ -1,5 +1,4 @@
-
-#About Me:
+# 💫 About Me:
 I'm currently working on academic projects in Computer Engineering<br>I'm looking to collaborate on engineering and software projects<br>I'm looking for help with AI & Machine Learning concepts<br>I'm currently learning AI/ML, Digital System Design, Communication Systems & Probability<br>Ask me about RFID systems, Database Design & AutoCAD<br>Fun fact I build real hardware projects as well as software ones
 
 
